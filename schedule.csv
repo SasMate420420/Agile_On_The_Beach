@@ -1,0 +1,63 @@
+Track,Date,Start Time,Duration,Speaker,Talk Title,Synopsis,Type
+LAWN,2026-07-02,07:30,90,,Breakfast,,Break
+STUDIO A,2026-07-02,09:00,10,"","Dydh da - welcome to day 1",,Talk
+STUDIO A,2026-07-02,09:10,60,"Patrick Debois",AI engineering,,Talk
+STUDIO A,2026-07-02,10:10,30,"Patrick Debois","Ask Me Anything - AI speaker",,Talk
+LAWN,2026-07-02,10:40,20,,Break,,Break
+STUDIO A,2026-07-02,11:00,45,"Cat Morris; Derik Evangelista","From panic to peace: Making the observability of an eventually consistent system suck less",,Talk
+STUDIO C,2026-07-02,11:00,45,"Claire Kemp","AI is my new best friend",,Talk
+STUDIO K,2026-07-02,11:00,45,"Ryan Healey","The developers worked in two by two. Hurrah! Hurrah!",,Talk
+STUDIO L,2026-07-02,11:00,45,"Joakim Sundén","""The smoothest reorg I've ever seen"": Lessons in collaborative org design",,Talk
+STUDIO E,2026-07-02,11:00,105,"Munish Malik; Mohit Chandna","The great prototyping quest",,Workshop
+STUDIO F,2026-07-02,11:00,105,"Rucha Kapare","10 facilitation hacks and 0 slides in 100 minutes",,Workshop
+LAWN,2026-07-02,11:45,15,,Break,,Break
+STUDIO A,2026-07-02,12:00,45,"Dan Abel","Being secure by design: engineer led security",,Talk
+STUDIO C,2026-07-02,12:00,45,"Neha Datt","Product strategy 101: what most teams are missing",,Talk
+STUDIO K,2026-07-02,12:00,45,"Vardhan Bhatt","The resilient consultant: From a dream team to burnout and back",,Talk
+STUDIO L,2026-07-02,12:00,45,"Robin Olsson; Harry Waterman","The successful failure: How our perfect AI tool drowned on the shore of adoption",,Talk
+LAWN,2026-07-02,12:45,60,,Lunch,,Break
+STUDIO A,2026-07-02,13:45,15,,"Sponsor lightning talk",,Talk
+STUDIO A,2026-07-02,14:00,45,"Harshita Varma; Nikita Verma","Code that grows trees: An experience report on automating scientific simulation",,Talk
+STUDIO C,2026-07-02,14:00,45,"Francesca Salvati","From project factory to product thinking: A platform team's journey",,Talk
+STUDIO L,2026-07-02,14:00,45,"Qiushuang Wang","The paradox of perfect process: How we delivered global product flawlessly... and missed the mark",,Talk
+STUDIO F,2026-07-02,14:00,105,"Amy Aspinall; Swarnadipa Banerjee","The Traitors: Agile edition",,Workshop
+LAWN,2026-07-02,14:45,15,,Break,,Break
+STUDIO A,2026-07-02,15:00,45,"Lee Provoost","Keeping engineers sane when everything's on fire: a fintech replatforming tale",,Talk
+STUDIO C,2026-07-02,15:00,45,"Paul Anumudu","Pivot, fuse, thrive: Redefining ITSM & Agile product leadership with AI at a global pharma",,Talk
+STUDIO K,2026-07-02,15:00,45,"Andy Weir","Your ticket isn't the truth, the conversation is",,Talk
+STUDIO L,2026-07-02,15:00,45,"Alisson Fernandes","Purpose-driven leadership: Unleashing the power of belonging",,Talk
+LAWN,2026-07-02,15:45,15,,Break,,Break
+STUDIO A,2026-07-02,16:00,45,"Mohamed Mortadha Manai","How we built agentic AI workflows at Netflix: Lessons in explainability and scale",,Talk
+STUDIO C,2026-07-02,16:00,45,"Julia Petretta","Why modern cross-functional product teams create more friction than alignment",,Talk
+STUDIO K,2026-07-02,16:00,45,"Hugo Rodrigues","From uniform to code: Military lessons that shaped my tech career",,Talk
+STUDIO L,2026-07-02,16:00,45,"Ruth Waterfield; Rob Cullingford","No managers: Complete chaos or enhanced agility?",,Talk
+LAWN,2026-07-02,16:45,15,,Break,,Break
+STUDIO A,2026-07-02,17:00,45,,"AI lightning talks",,Talk
+GYLLY BEACH,2026-07-02,18:45,255,,"Beach party",,Social
+LAWN,2026-07-03,07:30,90,,Breakfast,,Break
+STUDIO A,2026-07-03,09:00,10,,"Dydh da - welcome to day 2",,Talk
+STUDIO A,2026-07-03,09:10,60,,"Keynote speaker - AI in product",,Talk
+STUDIO A,2026-07-03,10:10,30,"Olly Brand","AI native - ask me anything",,Talk
+LAWN,2026-07-03,10:40,20,,Break,,Break
+STUDIO A,2026-07-03,11:00,45,"Thierry de Pauw","A case study in non-blocking continuous code reviews",,Talk
+STUDIO K,2026-07-03,11:00,45,"Ben Collins","What happens when you change teams every two days?",,Talk
+STUDIO L,2026-07-03,11:00,45,"Dr. Chichi Afiah","How hiring for Fit created teams that couldn't ship",,Talk
+STUDIO E,2026-07-03,11:00,100,"Gemma Honour; Nicola Schoonderwoerd","Break the pattern: Creative thinking hacks for product people!",,Workshop
+STUDIO F,2026-07-03,11:00,100,"Maxime Bonnin","Shakespeare on Stage... Shakespeare in your next sprints?",,Workshop
+LAWN,2026-07-03,11:45,10,,Break,,Break
+STUDIO A,2026-07-03,11:55,45,"Connell Sharp","Experimentation at Stack Overflow: How we built our new comments UI",,Talk
+STUDIO C,2026-07-03,11:55,45,"Rachel Dubois","Everything I learned about Product, I learned by messing It up first",,Talk
+STUDIO K,2026-07-03,11:55,45,"Emily King","When NPM came for us: A small team's Agile security journey",,Talk
+STUDIO L,2026-07-03,11:55,45,"Jaime San Martin","AI reports that mirror Hotel Ops, predict Incidents, and saved $150K in 3 Months",,Talk
+LAWN,2026-07-03,12:40,55,,Lunch,,Break
+STUDIO A,2026-07-03,13:35,45,"Kate Sant","Never let a crisis go to waste: how we used GenAI to battle a SPAM attack",,Talk
+STUDIO C,2026-07-03,13:35,45,"Robin Z","Pre-PMF in healthcare: Why the startup playbook fails and what to do instead",,Talk
+STUDIO K,2026-07-03,13:35,45,"Keith Klain","When the whistle blows: An ethics experience report",,Talk
+STUDIO L,2026-07-03,13:35,45,"Karl Royle","The invisible work of coaching: Lessons from two years on the edge of organisational change",,Talk
+LAWN,2026-07-03,14:20,10,,Break,,Break
+STUDIO A,2026-07-03,14:30,45,"Tom Morton","From on-prem to cloud to ... chaos? Our quest for developer experience",,Talk
+STUDIO C,2026-07-03,14:30,45,"Daniel Merriman","Escaping the Woozle Trap: How Winnie the Pooh saved my product career!",,Talk
+STUDIO K,2026-07-03,14:30,45,"Dinesh Sharma; Bhavika Nayyar","Restoring sprint goal confidence: How AI turned hope into evidence",,Talk
+STUDIO L,2026-07-03,14:30,45,"Jo Tansley Thomas","Institutional memory: beyond people, buildings and the fear of losing it",,Talk
+STUDIO A,2026-07-03,15:20,60,"Veerle Verhagen","Veerle doesn't want to talk about AI",,Talk
+STUDIO A,2026-07-03,16:20,10,,"Meur ras - thank you!",,Talk

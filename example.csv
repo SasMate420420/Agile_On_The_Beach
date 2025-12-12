@@ -1,0 +1,11 @@
+Track,Date,Start Time,Duration,Speaker,Talk Title,Synopsis,Type
+# TEST_PRE: should be in 5-minute countdown window if it's around 14:10
+TEST_PRE,,14:14,30,"Pre Start Tester","Talk starting soon (pre-start test)",,Talk
+
+# TEST_NORMAL: event more than 5 minutes away, plus a following talk
+TEST_NORMAL,,14:25,30,"Future Speaker","Normal upcoming talk (no countdown yet)",,Talk
+TEST_NORMAL,,15:00,30,"Later Speaker","Following talk after normal upcoming",,Talk
+
+# TEST_INTALK: talk started at 14:00 and is still running at 14:10
+TEST_INTALK,,14:00,30,"Current Speaker","Talk in progress test",,Talk
+TEST_INTALK,,14:35,30,"Next Speaker","Next after in-progress talk",,Talk
